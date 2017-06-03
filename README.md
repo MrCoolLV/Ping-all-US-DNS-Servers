@@ -10,3 +10,4 @@ Everyone welcome to add othr DNS servers if you dont see it on the list
 
 - thank you
 NocRoom.com 
+DNS by NocRoom | https://nocroom.com/datacenter/nocroom-public-dns-service/
